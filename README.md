@@ -12,7 +12,7 @@
 
 
 ### Glad to see you here!  
-I'm a CS student at [Carleton University](https://carleton.ca/) interested in web development, software development, and cloud computing.  
+I'm a CS student at [Carleton University](https://carleton.ca/) interested in web / software development, and cloud computing.  
   
 
 <br/>  
