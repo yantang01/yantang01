@@ -1,4 +1,4 @@
-## Hi 👋, I'm Yan! (she/her)  
+## Hi, I'm Yan! (she/her)  
   
 
 <a href="https://github.com/yantang01" target="_blank">
