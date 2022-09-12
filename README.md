@@ -21,10 +21,10 @@ I'm a CS student at [Carleton University](https://carleton.ca/) interested in we
 ## Rapidfire  
 <table><tr><td valign="top" width="50%">
 
-- 🔭 I’m currently working on something cool  
+- 🔭 I’m currently studying Computer Science  
   
 
-- 🌱 I’m currently learning React  
+- 🌱 I’m currently learning React / Python / DSA
   
 
   
