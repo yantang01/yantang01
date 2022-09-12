@@ -12,7 +12,7 @@
 
 
 ### Glad to see you here!  
-I am a CS student at [Carleton University](http://example/com) in Ottawa, Canada. My previous degree was a B.Com in Finance. I am a Finance/Accounting professional turned CS who is interested in web development, software development, and cloud computing.  
+I am a CS student at [Carleton University](http://example/com) in Ottawa, Canada. My previous degree was a B.Com in Finance. I am a Finance/Accounting professional turned CS interested in web development, software development, and cloud computing.  
   
 
 <br/>  
