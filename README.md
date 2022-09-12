@@ -18,7 +18,7 @@ I'm a CS student at [Carleton University](https://carleton.ca/) interested in we
 <br/>  
 
 
-## Rapidfire  
+## About Me  
 <table><tr><td valign="top" width="50%">
 
 - 🔭 I’m currently studying Computer Science  
