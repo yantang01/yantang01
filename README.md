@@ -1,22 +1,13 @@
-## Hi, I'm Yan! (she/her)  
-  
+## Hi, I'm Yan! (she/her)
 
-<a href="https://github.com/yantang01" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/yantang01" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>  
-  
+I am a CS student at [Carleton University](https://carleton.ca) in Ottawa, Canada.
 
-
-
-### Glad to see you here!  
-I am a CS student at [Carleton University](https://carleton.ca) in Ottawa, Canada. My previous degree was a B.Com in Finance. I am a Finance/Accounting professional turned CS interested in web development, software development, and cloud computing.  
-  
 
 <br/>  
 
+Let's connect!
+---
+[Email](mailto:yantang3@cmail.carleton.ca) | [LinkedIn](https://www.linkedin.com/in/yantang01) | [Website](https://yantang.netlify.app)
 
 ## Languages and Tools  
 <div align="center">  
