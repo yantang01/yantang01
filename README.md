@@ -7,4 +7,4 @@ I am a CS student at [Carleton University](https://carleton.ca) in Ottawa, Canad
 
 Let's connect :)
 ---
-[Email](mailto:yantang0727@gmail.com) | [LinkedIn](https://www.linkedin.com/in/yantang01) | [Website](https://yantang.netlify.app)
+[Email](mailto:yantangcs@gmail.com) | [LinkedIn](https://www.linkedin.com/in/yantang01) | [Website](https://yantang.netlify.app)
