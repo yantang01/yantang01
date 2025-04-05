@@ -1,7 +1,6 @@
 ## Hi, I'm Yan! (she/her)
 
-I am a CS student at [Carleton University](https://carleton.ca) in Ottawa, Canada.
-
+I graduated with a Computer Science degree from [Carleton University](https://carleton.ca) in Ottawa, and I’m currently a Software Developer based in Toronto.
 
 <br/>  
 
